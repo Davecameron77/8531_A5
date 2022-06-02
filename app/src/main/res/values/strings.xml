@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">8531_A5</string>
+    <string name="add_low_priority_task">Add Low Priority Task</string>
+    <string name="add_medium_priority_task">Add Medium Priority Task</string>
+    <string name="add_high_priority_task">Add High Priority Task</string>
+    <string name="low_priority_tasks">Low Priority Tasks:</string>
+    <string name="medium_priority_tasks">Medium Priority Tasks:</string>
+    <string name="high_priority_tasks">High Priority Tasks:</string>
+    <string name="task_default_value">99</string>
+    <string name="tasks_in_progress">Tasks In Progress:</string>
+</resources>
